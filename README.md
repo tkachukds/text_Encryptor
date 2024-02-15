@@ -19,6 +19,8 @@
 или запустить "shifr.exe".
 
 
+
+
 EN:
 
 This is a text encryptor based on the Caesar cipher (shift). The program allows users to encrypt and decrypt text using specified shift codes.
